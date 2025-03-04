@@ -50,5 +50,3 @@ Enable the *Node Level Scheduler* on any of the **Node-Pools** where you want to
 >
 >* Each GPU on this node pool will be used by 3 workloads
 >* GPU request: Each workload is guaranteed 0.33 GPU
-
-### Logging In
